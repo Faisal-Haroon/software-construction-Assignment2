@@ -1,5 +1,9 @@
 package RefectoredCode;
 
 public enum UserType {
- REGULAR, PREMIUM, VIP
+ 
+ REGULAR, 
+ PREMIUM, 
+ VIP
 }
+
