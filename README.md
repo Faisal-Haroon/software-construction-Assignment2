@@ -1,3 +1,1 @@
-# software-construction-Assignment2 
-...  ...# software-construction-Assignment2 
-...  ...
+Software Construction Assignment 2
